@@ -1,0 +1,10 @@
+br\com\itau\rest\api\DistanceCalculationAPI.class
+br\com\itau\dao\DestinationDAO.class
+br\com\itau\model\DistanceRequest.class
+br\com\itau\util\DistanceAPIUtil.class
+br\com\itau\dao\DestinationDAOImpl.class
+br\com\itau\model\City.class
+br\com\itau\dao\DAOFactory.class
+br\com\itau\dao\ConnectionFactory.class
+br\com\itau\dao\DestinationDAOQueries.class
+br\com\itau\rest\business\DistanceCalculatorBusiness.class
